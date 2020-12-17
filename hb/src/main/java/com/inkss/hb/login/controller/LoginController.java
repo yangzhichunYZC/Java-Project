@@ -178,7 +178,6 @@ public class LoginController {
         session.removeAttribute("loginNickPwd");
         session.removeAttribute("loginAdmin");
         session.invalidate();
-
         return "";
     }
 

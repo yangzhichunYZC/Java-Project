@@ -48,6 +48,7 @@
                 <a href="#">获取帮助</a>
             </label>
             <label class="forgot-password">
+<%--                <a href=baseUrl +"/LoginController/login.do">忘记密码？</a>--%>
                 <a href="#">忘记密码？</a>
             </label>
         </div>
